@@ -1,0 +1,37 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Connect Four/*
+!/Connect Four/task/
+/Connect Four/task/*
+!/Connect Four/task/src/
+!/Connect Four/task/build.gradle
+!/Connect Four/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/Getting substrings/Void/out/
+/Topics/Getting substrings/Void/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Regexps/Help the teacher/out/
+/Topics/Regexps/Help the teacher/out/production/classes/
+/Topics/Working with strings/Length check/out/
+/Topics/Working with strings/Length check/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
